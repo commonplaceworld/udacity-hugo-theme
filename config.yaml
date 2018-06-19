@@ -16,9 +16,9 @@
 # Every site needs these few: theme, baseURL, languageCode and title
 # Name of the theme your Hugo site uses; leave this in place:
 theme: "hugo-smorg"
-baseURL: "http://www.example.com/"
+baseURL: "http://www.commonplace.world/"
 languageCode: "en-us"
-title: "CommonPlace.World"
+title: "CommonPlace.world"
 
 # Optional $.Site Variables ----------------------------------------------
 # More info on Site variables; https://gohugo.io/getting-started/configuration/
@@ -27,12 +27,12 @@ title: "CommonPlace.World"
 #
 # author name appears in RSS and Atom feeds;
 # author email address is optional and can be # commented out.
-author:
-    name: "CommonPlace.World"
-    email: "thisemaildoesnotexist@www.example.com"
+#author:
+#    name: "CommonPlace.world"
+#    email: "thisemaildoesnotexist@www.example.com"
 
 # copyright appears in the default site footer
-copyright: "&copy; CommonPlace.World"
+copyright: "&copy; CommonPlace.world"
 
 # metaDataFormat for new content pages generated with the `hugo new` command if
 # not otherwise specified by an archetype. Hugo-Smorg theme examples all use
@@ -104,14 +104,14 @@ params:
 
     # fullname: Used in head and footer partials; Atom and RSS generation.
     # JSON-LD microdata for search engines
-    fullname: "CommonPlace.World"
+    fullname: "CommonPlace.world"
 
     # Description: Used per fullname.
-    description: "A collabroative space to share knowledge in NLP"
+    description: "A space for people from all over to collaborate on projects together"
 
     # Sites should customize their logo or wordmark here; Provided via partials/logo.html.
     # used in default navigation and footer.
-    logotype: '<span class="has-text-weight-bold">hugo-<span class="has-text-danger">NLP</span></span>'
+    logotype: '<span class="has-text-weight-bold">Hugo-<span class="has-text-danger">smorg</span></span>'
     footer: 'An open source theme by <a href="https://mikewatkins.ca/">Mike Watkins</a>'
     subfooter: '<i class="fab fa-github"></i> <a href="https://github.com/solutionroute/hugo-smorg">github.com/solutionroute/hugo-smorg</a>'
 
@@ -119,7 +119,7 @@ params:
     publisher:
         # Type must be either "Organization" or "Person"
         type: Organization
-        name: CommonPlace.World
+        name: CommonPlace.world
         logo: url to logo image
 
 
