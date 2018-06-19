@@ -4,11 +4,4 @@ draft: false
 title: hugo-smorg
 ---
 
-[Hugo-smorg][] is an open source theme for [Hugo](https://gohugo.io/), the fast
-and flexible static site engine written in Go. The theme incorporates
-[Bulma][], a responsive CSS framework and [Bulmaswatch][] theme customizations
-for Bulma.
-
-[Hugo-smorg]: https://github.com/solutionroute/hugo-smorg
-[Bulma]: https://bulma.io/
-[Bulmaswatch]: https://jenil.github.io/bulmaswatch/
+CommonPlace.world is a space for people from all over to collaborate on projects together. The [Udacity NLP nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) course content is our first and current focus.  Let's continue to experiment and grow our knowledge!
