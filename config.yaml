@@ -106,6 +106,9 @@ params:
     # JSON-LD microdata for search engines
     fullname: "CommonPlace.world"
 
+    # Tagline under the logo
+    tagline: "Let's work together!"
+
     # Description: Used per fullname.
     description: "A space for people from all over to collaborate on projects together"
 
