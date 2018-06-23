@@ -1,16 +1,18 @@
 #!/bin/bash
 
-echo "Deleting contents of .gitmodule file"
-
-> .gitmodules
-
-echo "Staging changes to .gitmodules"
-
-git add .gitmodules
+# echo "Deleting contents of .gitmodule file"
+#
+# > .gitmodules
+#
+# echo "Staging changes to .gitmodules"
+#
+# git add .gitmodules
 
 echo "Now delete the relevant section to the submodule from the .git/config file. Specifically, this portion"
 
-echo '[submodule "public"]\nurl = git@github.com:commonplaceworld/commonplaceworld.github.io.git\nactive = true"'
+echo '[submodule "public"]
+    url = git@github.com:commonplaceworld/commonplaceworld.github.io.git
+    active = true"'
 
 echo "Type anything when done. Note: If you just cloned the repo, this step isn't necessary"
 
