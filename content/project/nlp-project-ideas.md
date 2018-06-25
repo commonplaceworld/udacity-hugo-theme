@@ -1,7 +1,7 @@
 ---
 title: "NLP Project Ideas"
 description: "Meta-project of project resource listings"
-date: 2018-06-25T12:02:03-07:00
+date: 2018-06-25T14:22:27-07:00
 categories: []
 tags: []
 draft: false
