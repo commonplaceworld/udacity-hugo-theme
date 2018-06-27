@@ -5,6 +5,7 @@ date: 2018-06-25T14:22:27-07:00
 categories: []
 tags: []
 draft: false
+weight: 1
 ---
 
 Here are some listings of NLP project ideas, datasets, and other resources from around the web.
