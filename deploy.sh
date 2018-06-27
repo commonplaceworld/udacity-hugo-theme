@@ -7,6 +7,10 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
+
+# Pull new content
+git pull
+
 # Add changes to git.
 git add .
 
